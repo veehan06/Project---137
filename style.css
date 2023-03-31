@@ -1,0 +1,26 @@
+body{
+    background-size: contain;
+}
+.header{
+    width: 100%;
+}
+.note{
+    color: black;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+.heading{
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 32px;
+}
+.start, .status, .found{
+    font-size: 18px;
+}
+canvas{
+    background-color: #003399;
+    border-color: 2px 2px #003cb3;
+    box-shadow: 2px 2px 1px #0044cc;
+    margin-top: 200px;
+    border-radius: 20px;
+}
